@@ -1,0 +1,433 @@
+﻿'mysql_c++(2).exe' (Win32): 'C:\Users\rober\Desktop\PROYECTOS PROGRA\Proyecto Final Progra\Proyecto Final Programación I\x64\Release\mysql_c++(2).exe' cargado. Símbolos cargados.
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\ntdll.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\kernel32.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\KernelBase.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\user32.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\win32u.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\gdi32.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\gdi32full.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\msvcp_win.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\ucrtbase.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\comdlg32.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\msvcrt.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\combase.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\rpcrt4.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\SHCore.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\shlwapi.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\shell32.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Users\rober\Desktop\PROYECTOS PROGRA\Proyecto Final Progra\Proyecto Final Programación I\mysql_c++(2)\libmysql.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\advapi32.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\sechost.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\ws2_32.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_5.82.19041.1110_none_792d1c772443f647\comctl32.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\msvcp140.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\vcruntime140_1.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\vcruntime140.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Program Files\MySQL\MySQL Shell 8.0\bin\libssl-1_1-x64.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Program Files\MySQL\MySQL Shell 8.0\bin\libcrypto-1_1-x64.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\bcrypt.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\dnsapi.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\secur32.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\sspicli.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\imm32.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\IPHLPAPI.DLL' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\nsi.dll' cargado. 
+El subproceso 0x8a4 terminó con código 0 (0x0).
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\NapiNSP.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\pnrpnsp.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\wshbth.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\nlaapi.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\mswsock.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\winrnr.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\rasadhlp.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\FWPUCLNT.DLL' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\bcryptprimitives.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\winspool.drv' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\kernel.appcore.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\clbcatq.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\netprofm.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\npmproxy.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\dhcpcsvc6.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\dhcpcsvc.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\netprofm.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\npmproxy.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\DriverStore\FileRepository\prnms003.inf_amd64_a29c0b310ee9ab81\Amd64\PrintConfig.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\oleaut32.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\ole32.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\prntvpt.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\userenv.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\version.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\version.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\version.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\msxml6.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\urlmon.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\iertutil.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\srvcli.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\netutils.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\uxtheme.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Program Files\Microsoft Office\root\vfs\ProgramFilesCommonX64\Microsoft Shared\OFFICE16\MSOXMLMF.DLL' cargado. 
+Excepción producida en 0x00007FF82A144FD9 (KernelBase.dll) en mysql_c++(2).exe: WinRT originate error - 0x80040155 : 'Error al buscar el registro de proxy para IID: {79EAC9E4-BAF9-11CE-8C82-00AA004BA90B}.'.
+onecore\com\combase\dcomrem\marshal.cxx(1284)\combase.dll!00007FF82B79C1AB: (caller: 00007FF82B79B564) ReturnHr(1) tid(43a0) 80040155 Interfaz no registrada
+    Msg:[Failed to marshal with IID={79EAC9E4-BAF9-11CE-8C82-00AA004BA90B}] 
+onecore\com\combase\dcomrem\marshal.cxx(1179)\combase.dll!00007FF82B79B594: (caller: 00007FF82B79A11B) LogHr(1) tid(43a0) 80040155 Interfaz no registrada
+onecore\com\combase\dcomrem\marshal.cxx(1119)\combase.dll!00007FF82B876C04: (caller: 00007FF82B799A2D) ReturnHr(2) tid(43a0) 80040155 Interfaz no registrada
+Excepción producida en 0x00007FF82A144FD9 (KernelBase.dll) en mysql_c++(2).exe: 0x80040155: Interfaz no registrada.
+Excepción producida en 0x00007FF82A144FD9 (KernelBase.dll) en mysql_c++(2).exe: 0x80040155: Interfaz no registrada.
+'mysql_c++(2).exe' (Win32): 'C:\Program Files\Microsoft Office\root\vfs\ProgramFilesCommonX64\Microsoft Shared\OFFICE16\MSOXMLMF.DLL' descargado
+El subproceso 0x43a0 terminó con código 0 (0x0).
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\iertutil.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\srvcli.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\netutils.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\urlmon.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\msxml6.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\msxml6.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\urlmon.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\iertutil.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\srvcli.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\netutils.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Program Files\Microsoft Office\root\vfs\ProgramFilesCommonX64\Microsoft Shared\OFFICE16\MSOXMLMF.DLL' cargado. 
+Excepción producida en 0x00007FF82A144FD9 (KernelBase.dll) en mysql_c++(2).exe: WinRT originate error - 0x80040155 : 'Error al buscar el registro de proxy para IID: {79EAC9E4-BAF9-11CE-8C82-00AA004BA90B}.'.
+onecore\com\combase\dcomrem\marshal.cxx(1284)\combase.dll!00007FF82B79C1AB: (caller: 00007FF82B79B564) ReturnHr(3) tid(4364) 80040155 Interfaz no registrada
+    Msg:[Failed to marshal with IID={79EAC9E4-BAF9-11CE-8C82-00AA004BA90B}] 
+onecore\com\combase\dcomrem\marshal.cxx(1179)\combase.dll!00007FF82B79B594: (caller: 00007FF82B79A11B) LogHr(2) tid(4364) 80040155 Interfaz no registrada
+onecore\com\combase\dcomrem\marshal.cxx(1119)\combase.dll!00007FF82B876C04: (caller: 00007FF82B799A2D) ReturnHr(4) tid(4364) 80040155 Interfaz no registrada
+Excepción producida en 0x00007FF82A144FD9 (KernelBase.dll) en mysql_c++(2).exe: 0x80040155: Interfaz no registrada.
+Excepción producida en 0x00007FF82A144FD9 (KernelBase.dll) en mysql_c++(2).exe: 0x80040155: Interfaz no registrada.
+'mysql_c++(2).exe' (Win32): 'C:\Program Files\Microsoft Office\root\vfs\ProgramFilesCommonX64\Microsoft Shared\OFFICE16\MSOXMLMF.DLL' descargado
+El subproceso 0x4364 terminó con código 0 (0x0).
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\iertutil.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\srvcli.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\netutils.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\urlmon.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\msxml6.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\msxml6.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\urlmon.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\srvcli.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\iertutil.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\netutils.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Program Files\Microsoft Office\root\vfs\ProgramFilesCommonX64\Microsoft Shared\OFFICE16\MSOXMLMF.DLL' cargado. 
+Excepción producida en 0x00007FF82A144FD9 (KernelBase.dll) en mysql_c++(2).exe: WinRT originate error - 0x80040155 : 'Error al buscar el registro de proxy para IID: {79EAC9E4-BAF9-11CE-8C82-00AA004BA90B}.'.
+onecore\com\combase\dcomrem\marshal.cxx(1284)\combase.dll!00007FF82B79C1AB: (caller: 00007FF82B79B564) ReturnHr(5) tid(3b74) 80040155 Interfaz no registrada
+    Msg:[Failed to marshal with IID={79EAC9E4-BAF9-11CE-8C82-00AA004BA90B}] 
+onecore\com\combase\dcomrem\marshal.cxx(1179)\combase.dll!00007FF82B79B594: (caller: 00007FF82B79A11B) LogHr(3) tid(3b74) 80040155 Interfaz no registrada
+onecore\com\combase\dcomrem\marshal.cxx(1119)\combase.dll!00007FF82B876C04: (caller: 00007FF82B799A2D) ReturnHr(6) tid(3b74) 80040155 Interfaz no registrada
+Excepción producida en 0x00007FF82A144FD9 (KernelBase.dll) en mysql_c++(2).exe: 0x80040155: Interfaz no registrada.
+Excepción producida en 0x00007FF82A144FD9 (KernelBase.dll) en mysql_c++(2).exe: 0x80040155: Interfaz no registrada.
+'mysql_c++(2).exe' (Win32): 'C:\Program Files\Microsoft Office\root\vfs\ProgramFilesCommonX64\Microsoft Shared\OFFICE16\MSOXMLMF.DLL' descargado
+El subproceso 0x3b74 terminó con código 0 (0x0).
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\iertutil.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\srvcli.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\netutils.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\urlmon.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\msxml6.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\msxml6.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\urlmon.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\iertutil.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\srvcli.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\netutils.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Program Files\Microsoft Office\root\vfs\ProgramFilesCommonX64\Microsoft Shared\OFFICE16\MSOXMLMF.DLL' cargado. 
+Excepción producida en 0x00007FF82A144FD9 (KernelBase.dll) en mysql_c++(2).exe: WinRT originate error - 0x80040155 : 'Error al buscar el registro de proxy para IID: {79EAC9E4-BAF9-11CE-8C82-00AA004BA90B}.'.
+onecore\com\combase\dcomrem\marshal.cxx(1284)\combase.dll!00007FF82B79C1AB: (caller: 00007FF82B79B564) ReturnHr(7) tid(37f8) 80040155 Interfaz no registrada
+    Msg:[Failed to marshal with IID={79EAC9E4-BAF9-11CE-8C82-00AA004BA90B}] 
+onecore\com\combase\dcomrem\marshal.cxx(1179)\combase.dll!00007FF82B79B594: (caller: 00007FF82B79A11B) LogHr(4) tid(37f8) 80040155 Interfaz no registrada
+onecore\com\combase\dcomrem\marshal.cxx(1119)\combase.dll!00007FF82B876C04: (caller: 00007FF82B799A2D) ReturnHr(8) tid(37f8) 80040155 Interfaz no registrada
+Excepción producida en 0x00007FF82A144FD9 (KernelBase.dll) en mysql_c++(2).exe: 0x80040155: Interfaz no registrada.
+Excepción producida en 0x00007FF82A144FD9 (KernelBase.dll) en mysql_c++(2).exe: 0x80040155: Interfaz no registrada.
+'mysql_c++(2).exe' (Win32): 'C:\Program Files\Microsoft Office\root\vfs\ProgramFilesCommonX64\Microsoft Shared\OFFICE16\MSOXMLMF.DLL' descargado
+El subproceso 0x37f8 terminó con código 0 (0x0).
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\iertutil.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\srvcli.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\netutils.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\urlmon.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\msxml6.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\msxml6.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\urlmon.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\srvcli.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\netutils.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\iertutil.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Program Files\Microsoft Office\root\vfs\ProgramFilesCommonX64\Microsoft Shared\OFFICE16\MSOXMLMF.DLL' cargado. 
+Excepción producida en 0x00007FF82A144FD9 (KernelBase.dll) en mysql_c++(2).exe: WinRT originate error - 0x80040155 : 'Error al buscar el registro de proxy para IID: {79EAC9E4-BAF9-11CE-8C82-00AA004BA90B}.'.
+onecore\com\combase\dcomrem\marshal.cxx(1284)\combase.dll!00007FF82B79C1AB: (caller: 00007FF82B79B564) ReturnHr(9) tid(3d94) 80040155 Interfaz no registrada
+    Msg:[Failed to marshal with IID={79EAC9E4-BAF9-11CE-8C82-00AA004BA90B}] 
+onecore\com\combase\dcomrem\marshal.cxx(1179)\combase.dll!00007FF82B79B594: (caller: 00007FF82B79A11B) LogHr(5) tid(3d94) 80040155 Interfaz no registrada
+onecore\com\combase\dcomrem\marshal.cxx(1119)\combase.dll!00007FF82B876C04: (caller: 00007FF82B799A2D) ReturnHr(10) tid(3d94) 80040155 Interfaz no registrada
+Excepción producida en 0x00007FF82A144FD9 (KernelBase.dll) en mysql_c++(2).exe: 0x80040155: Interfaz no registrada.
+Excepción producida en 0x00007FF82A144FD9 (KernelBase.dll) en mysql_c++(2).exe: 0x80040155: Interfaz no registrada.
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\jscript.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\amsi.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\profapi.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.2203.5-0\MpOAV.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\sxs.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\amsi.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\amsi.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\amsi.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\amsi.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\amsi.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Program Files\Microsoft Office\root\vfs\ProgramFilesCommonX64\Microsoft Shared\OFFICE16\MSOXMLMF.DLL' descargado
+El subproceso 0x3d94 terminó con código 0 (0x0).
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\jscript.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\iertutil.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\srvcli.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\netutils.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\urlmon.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\msxml6.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\msctf.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.1110_none_60b5254171f9507e\comctl32.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\TextInputFramework.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\CoreUIComponents.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\CoreMessaging.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\WinTypes.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\ntmarta.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\WinTypes.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\WinTypes.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\TextShaping.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\msxml6.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\urlmon.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\srvcli.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\netutils.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\iertutil.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Program Files\Microsoft Office\root\vfs\ProgramFilesCommonX64\Microsoft Shared\OFFICE16\MSOXMLMF.DLL' cargado. 
+Excepción producida en 0x00007FF82A144FD9 (KernelBase.dll) en mysql_c++(2).exe: WinRT originate error - 0x80040155 : 'Error al buscar el registro de proxy para IID: {79EAC9E4-BAF9-11CE-8C82-00AA004BA90B}.'.
+onecore\com\combase\dcomrem\marshal.cxx(1284)\combase.dll!00007FF82B79C1AB: (caller: 00007FF82B79B564) ReturnHr(11) tid(1a98) 80040155 Interfaz no registrada
+    Msg:[Failed to marshal with IID={79EAC9E4-BAF9-11CE-8C82-00AA004BA90B}] 
+onecore\com\combase\dcomrem\marshal.cxx(1179)\combase.dll!00007FF82B79B594: (caller: 00007FF82B79A11B) LogHr(6) tid(1a98) 80040155 Interfaz no registrada
+onecore\com\combase\dcomrem\marshal.cxx(1119)\combase.dll!00007FF82B876C04: (caller: 00007FF82B799A2D) ReturnHr(12) tid(1a98) 80040155 Interfaz no registrada
+Excepción producida en 0x00007FF82A144FD9 (KernelBase.dll) en mysql_c++(2).exe: 0x80040155: Interfaz no registrada.
+Excepción producida en 0x00007FF82A144FD9 (KernelBase.dll) en mysql_c++(2).exe: 0x80040155: Interfaz no registrada.
+'mysql_c++(2).exe' (Win32): 'C:\Program Files\Microsoft Office\root\vfs\ProgramFilesCommonX64\Microsoft Shared\OFFICE16\MSOXMLMF.DLL' descargado
+El subproceso 0x1a98 terminó con código 0 (0x0).
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\iertutil.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\srvcli.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\netutils.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\urlmon.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\msxml6.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\msxml6.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\urlmon.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\srvcli.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\netutils.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\iertutil.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Program Files\Microsoft Office\root\vfs\ProgramFilesCommonX64\Microsoft Shared\OFFICE16\MSOXMLMF.DLL' cargado. 
+Excepción producida en 0x00007FF82A144FD9 (KernelBase.dll) en mysql_c++(2).exe: WinRT originate error - 0x80040155 : 'Error al buscar el registro de proxy para IID: {79EAC9E4-BAF9-11CE-8C82-00AA004BA90B}.'.
+onecore\com\combase\dcomrem\marshal.cxx(1284)\combase.dll!00007FF82B79C1AB: (caller: 00007FF82B79B564) ReturnHr(13) tid(40b4) 80040155 Interfaz no registrada
+    Msg:[Failed to marshal with IID={79EAC9E4-BAF9-11CE-8C82-00AA004BA90B}] 
+onecore\com\combase\dcomrem\marshal.cxx(1179)\combase.dll!00007FF82B79B594: (caller: 00007FF82B79A11B) LogHr(7) tid(40b4) 80040155 Interfaz no registrada
+onecore\com\combase\dcomrem\marshal.cxx(1119)\combase.dll!00007FF82B876C04: (caller: 00007FF82B799A2D) ReturnHr(14) tid(40b4) 80040155 Interfaz no registrada
+Excepción producida en 0x00007FF82A144FD9 (KernelBase.dll) en mysql_c++(2).exe: 0x80040155: Interfaz no registrada.
+Excepción producida en 0x00007FF82A144FD9 (KernelBase.dll) en mysql_c++(2).exe: 0x80040155: Interfaz no registrada.
+'mysql_c++(2).exe' (Win32): 'C:\Program Files\Microsoft Office\root\vfs\ProgramFilesCommonX64\Microsoft Shared\OFFICE16\MSOXMLMF.DLL' descargado
+El subproceso 0x40b4 terminó con código 0 (0x0).
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\iertutil.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\srvcli.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\netutils.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\urlmon.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\msxml6.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\msxml6.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\urlmon.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\srvcli.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\iertutil.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\netutils.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Program Files\Microsoft Office\root\vfs\ProgramFilesCommonX64\Microsoft Shared\OFFICE16\MSOXMLMF.DLL' cargado. 
+Excepción producida en 0x00007FF82A144FD9 (KernelBase.dll) en mysql_c++(2).exe: WinRT originate error - 0x80040155 : 'Error al buscar el registro de proxy para IID: {79EAC9E4-BAF9-11CE-8C82-00AA004BA90B}.'.
+onecore\com\combase\dcomrem\marshal.cxx(1284)\combase.dll!00007FF82B79C1AB: (caller: 00007FF82B79B564) ReturnHr(15) tid(30dc) 80040155 Interfaz no registrada
+    Msg:[Failed to marshal with IID={79EAC9E4-BAF9-11CE-8C82-00AA004BA90B}] 
+onecore\com\combase\dcomrem\marshal.cxx(1179)\combase.dll!00007FF82B79B594: (caller: 00007FF82B79A11B) LogHr(8) tid(30dc) 80040155 Interfaz no registrada
+onecore\com\combase\dcomrem\marshal.cxx(1119)\combase.dll!00007FF82B876C04: (caller: 00007FF82B799A2D) ReturnHr(16) tid(30dc) 80040155 Interfaz no registrada
+Excepción producida en 0x00007FF82A144FD9 (KernelBase.dll) en mysql_c++(2).exe: 0x80040155: Interfaz no registrada.
+Excepción producida en 0x00007FF82A144FD9 (KernelBase.dll) en mysql_c++(2).exe: 0x80040155: Interfaz no registrada.
+'mysql_c++(2).exe' (Win32): 'C:\Program Files\Microsoft Office\root\vfs\ProgramFilesCommonX64\Microsoft Shared\OFFICE16\MSOXMLMF.DLL' descargado
+El subproceso 0x30dc terminó con código 0 (0x0).
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\iertutil.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\srvcli.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\netutils.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\urlmon.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\msxml6.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\msxml6.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\urlmon.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\iertutil.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\srvcli.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\netutils.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Program Files\Microsoft Office\root\vfs\ProgramFilesCommonX64\Microsoft Shared\OFFICE16\MSOXMLMF.DLL' cargado. 
+Excepción producida en 0x00007FF82A144FD9 (KernelBase.dll) en mysql_c++(2).exe: WinRT originate error - 0x80040155 : 'Error al buscar el registro de proxy para IID: {79EAC9E4-BAF9-11CE-8C82-00AA004BA90B}.'.
+onecore\com\combase\dcomrem\marshal.cxx(1284)\combase.dll!00007FF82B79C1AB: (caller: 00007FF82B79B564) ReturnHr(17) tid(3f9c) 80040155 Interfaz no registrada
+    Msg:[Failed to marshal with IID={79EAC9E4-BAF9-11CE-8C82-00AA004BA90B}] 
+onecore\com\combase\dcomrem\marshal.cxx(1179)\combase.dll!00007FF82B79B594: (caller: 00007FF82B79A11B) LogHr(9) tid(3f9c) 80040155 Interfaz no registrada
+onecore\com\combase\dcomrem\marshal.cxx(1119)\combase.dll!00007FF82B876C04: (caller: 00007FF82B799A2D) ReturnHr(18) tid(3f9c) 80040155 Interfaz no registrada
+Excepción producida en 0x00007FF82A144FD9 (KernelBase.dll) en mysql_c++(2).exe: 0x80040155: Interfaz no registrada.
+Excepción producida en 0x00007FF82A144FD9 (KernelBase.dll) en mysql_c++(2).exe: 0x80040155: Interfaz no registrada.
+'mysql_c++(2).exe' (Win32): 'C:\Program Files\Microsoft Office\root\vfs\ProgramFilesCommonX64\Microsoft Shared\OFFICE16\MSOXMLMF.DLL' descargado
+El subproceso 0x3f9c terminó con código 0 (0x0).
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\iertutil.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\srvcli.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\netutils.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\urlmon.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\msxml6.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\DriverStore\FileRepository\ntprint.inf_amd64_c62e9f8067f98247\Amd64\MXDWDRV.DLL' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\xmllite.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\DWrite.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\PrintWorkflowProxy.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\PrintWorkflowProxy.dll' descargado
+El subproceso 0x1ac terminó con código 0 (0x0).
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\OpcServices.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\urlmon.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\srvcli.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\iertutil.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\netutils.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\xpsservices.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\msxml6.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Program Files\Microsoft Office\root\vfs\ProgramFilesCommonX64\Microsoft Shared\OFFICE16\MSOXMLMF.DLL' cargado. 
+Excepción producida en 0x00007FF82A144FD9 (KernelBase.dll) en mysql_c++(2).exe: WinRT originate error - 0x80040155 : 'Error al buscar el registro de proxy para IID: {79EAC9E4-BAF9-11CE-8C82-00AA004BA90B}.'.
+onecore\com\combase\dcomrem\marshal.cxx(1284)\combase.dll!00007FF82B79C1AB: (caller: 00007FF82B79B564) ReturnHr(19) tid(39f8) 80040155 Interfaz no registrada
+    Msg:[Failed to marshal with IID={79EAC9E4-BAF9-11CE-8C82-00AA004BA90B}] 
+onecore\com\combase\dcomrem\marshal.cxx(1179)\combase.dll!00007FF82B79B594: (caller: 00007FF82B79A11B) LogHr(10) tid(39f8) 80040155 Interfaz no registrada
+onecore\com\combase\dcomrem\marshal.cxx(1119)\combase.dll!00007FF82B876C04: (caller: 00007FF82B799A2D) ReturnHr(20) tid(39f8) 80040155 Interfaz no registrada
+Excepción producida en 0x00007FF82A144FD9 (KernelBase.dll) en mysql_c++(2).exe: 0x80040155: Interfaz no registrada.
+Excepción producida en 0x00007FF82A144FD9 (KernelBase.dll) en mysql_c++(2).exe: 0x80040155: Interfaz no registrada.
+'mysql_c++(2).exe' (Win32): 'C:\Program Files\Microsoft Office\root\vfs\ProgramFilesCommonX64\Microsoft Shared\OFFICE16\MSOXMLMF.DLL' descargado
+El subproceso 0x39f8 terminó con código 0 (0x0).
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\msxml6.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\msxml6.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\msxml6.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\msxml6.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\msxml6.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\msxml6.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\msxml6.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\fontsub.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\msxml6.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\jscript.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\amsi.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\amsi.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\compstui.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\msimg32.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\msimg32.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\compstui.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\amsi.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\amsi.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\amsi.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\amsi.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\compstui.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\msimg32.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\msimg32.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\compstui.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\amsi.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\amsi.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\jscript.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\msxml6.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\msxml6.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\msxml6.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\msxml6.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\msxml6.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\msxml6.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\msxml6.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\msxml6.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\msxml6.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\propsys.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\edputil.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\windows.storage.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\wldp.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\dui70.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\duser.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\dwmapi.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\ExplorerFrame.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\WindowsCodecs.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\thumbcache.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\policymanager.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\msvcp110_win.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\DataExchange.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\d3d11.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\dcomp.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\dxgi.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\twinapi.appcore.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\Windows.UI.FileExplorer.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\oleacc.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\cfgmgr32.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\StructuredQuery.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\atlthunk.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\Windows.FileExplorer.Common.dll' cargado. 
+El subproceso 0x3e74 terminó con código 0 (0x0).
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\Windows.StateRepositoryPS.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\Windows.Storage.Search.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Program Files\Common Files\microsoft shared\ink\tiptsf.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\twinapi.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\coml2.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\linkinfo.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\winmm.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\apphelp.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Users\rober\AppData\Local\Microsoft\OneDrive\22.099.0508.0001\FileSyncShell64.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\crypt32.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\wininet.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\wtsapi32.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\cryptbase.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\EhStorShell.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\setupapi.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\networkexplorer.dll' cargado. 
+El subproceso 0x42ac terminó con código 0 (0x0).
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\twinapi.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\Windows.UI.FileExplorer.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\winmm.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\ExplorerFrame.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Program Files\Common Files\microsoft shared\ink\tiptsf.dll' descargado
+Invalid parameter passed to C runtime function.
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\prnfldr.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\prnfldr.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\msxml6.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\jscript.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\amsi.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\amsi.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\amsi.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\amsi.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\amsi.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\amsi.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\mscms.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\coloradapterclient.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\amsi.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\amsi.dll' descargado
+El subproceso 0x34d4 terminó con código 0 (0x0).
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\netprofm.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\npmproxy.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\amsi.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\amsi.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\amsi.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\amsi.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\amsi.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\amsi.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\PrintWorkflowProxy.dll' cargado. 
+El subproceso 0x435c terminó con código 0 (0x0).
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\ExplorerFrame.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\Windows.UI.FileExplorer.dll' cargado. 
+El subproceso 0x3aa8 terminó con código 0 (0x0).
+'mysql_c++(2).exe' (Win32): 'C:\Program Files\Common Files\microsoft shared\ink\tiptsf.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\twinapi.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\winmm.dll' cargado. 
+El subproceso 0x35c8 terminó con código 0 (0x0).
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\twinapi.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\Windows.UI.FileExplorer.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\winmm.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\ExplorerFrame.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Program Files\Common Files\microsoft shared\ink\tiptsf.dll' descargado
+Invalid parameter passed to C runtime function.
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\prnfldr.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\prnfldr.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\amsi.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\amsi.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\amsi.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\amsi.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\amsi.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\amsi.dll' descargado
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\amsi.dll' cargado. 
+'mysql_c++(2).exe' (Win32): 'C:\Windows\System32\amsi.dll' descargado
+El subproceso 0x3258 terminó con código 3221225786 (0xc000013a).
+El subproceso 0xdf0 terminó con código 3221225786 (0xc000013a).
+El subproceso 0x3ce0 terminó con código 3221225786 (0xc000013a).
+El subproceso 0x2fa4 terminó con código 3221225786 (0xc000013a).
+El subproceso 0x23b0 terminó con código 3221225786 (0xc000013a).
+El subproceso 0x4268 terminó con código 3221225786 (0xc000013a).
+El subproceso 0x1b14 terminó con código 3221225786 (0xc000013a).
+El subproceso 0xe8c terminó con código 3221225786 (0xc000013a).
+El subproceso 0x42b0 terminó con código 3221225786 (0xc000013a).
+El subproceso 0x3334 terminó con código 3221225786 (0xc000013a).
+El subproceso 0x1bc0 terminó con código 3221225786 (0xc000013a).
+El subproceso 0x940 terminó con código 3221225786 (0xc000013a).
+El subproceso 0x3fb0 terminó con código 3221225786 (0xc000013a).
+El subproceso 0x18a8 terminó con código 3221225786 (0xc000013a).
+El subproceso 0x2e44 terminó con código 3221225786 (0xc000013a).
+El programa '[7552] mysql_c++(2).exe' terminó con código 3221225786 (0xc000013a).

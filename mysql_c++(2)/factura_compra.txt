@@ -1,0 +1,30 @@
+NOMBRE DE LA EMPRESA EN QUE EXTIENDE LA FACTURA
+Proveedor: Telcel
+EL TEJAR, CHIMALTENANGO
+Fecha orden: 2022-06-06 19:10:49
+
+HORA
+Serie 
+No orden: 20
+
+
+Producto: Monitor AS-22 AMD   Precio unitario: 2500.00   ID del producto: 5   Cantidad del producto: 2
+Subtotal: 5000
+
+Producto: Teclado Mecanico Dell   Precio unitario: 200.00   ID del producto: 6   Cantidad del producto: 2
+Subtotal: 400
+
+Producto: Laptop Dell   Precio unitario: 2500.00   ID del producto: 1   Cantidad del producto: 5
+Subtotal: 12500
+
+
+Total: 17900
+
+Efectivo: 18000.000000
+Vuelto: 100.000000
+
+Productos comprados: 3
+
+Tipo de pago EFECTIVO
+
+Gracias, vuelva pronto!: 

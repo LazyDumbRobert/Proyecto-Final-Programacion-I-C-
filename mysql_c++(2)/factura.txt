@@ -1,0 +1,33 @@
+NOMBRE DE LA EMPRESA EN QUE EXTIENDE LA FACTURA
+GRADO SOCIEDAD ANONIMA
+EL TEJAR, CHIMALTENANGO
+Telefono: 
+
+Documento Tributario Electronico
+Serie A
+Factura No 102
+
+Fecha 2022-06-06 19:10:02
+ID de cajero 1
+Nit CF
+
+Producto: Monitor AS-22 AMD   Precio unitario: 3600.00   ID del producto: 5   Cantidad del producto: 2
+Subtotal: 7200
+
+Producto: Teclado Mecanico Dell   Precio unitario: 700.00   ID del producto: 6   Cantidad del producto: 2
+Subtotal: 1400
+
+Producto: Laptop Dell   Precio unitario: 3000.00   ID del producto: 1   Cantidad del producto: 5
+Subtotal: 15000
+
+
+Total: 23600
+
+Efectivo: 25000.000000
+Vuelto: 1400.000000
+
+Productos comprados: 3
+
+Tipo de pago EFECTIVO
+
+Gracias, vuelva pronto!: 
